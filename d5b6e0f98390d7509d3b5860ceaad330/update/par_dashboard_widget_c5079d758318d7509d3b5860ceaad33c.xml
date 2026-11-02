@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">7696b8b98314d7509d3b5860ceaad330</canvas>
+        <component display_value="List">7ff373544303121093711347efb8f23c</component>
+        <component_props>{"metrics":[{"aggregateFunction":"COUNT","axisId":"primary","dataSource":"dGFibGVpbmNpZGVudDE3MzYzNjA0MzU5NjM=","id":"ZEdGaWJHVnBibU5wWkdWdWRERTNNell6TmpBME16VTVOak09MTczNjM2MDQzNjgwMQ==","numberFormat":{"customFormat":false}}],"showHeader":true,"wrapTitle":false,"showLoadingIndicator":false,"showHeaderSeparator":false,"contextMenuActions":[],"headingLevel":2,"limit":10,"columnLimit":0,"maxCharLimit":40,"columnPreferenceKey":"","showPersonalization":false,"hideDotwalk":false,"showColumnReorder":true,"showColumnGrouping":true,"showColumnResizing":true,"showColumnFiltering":false,"showColumnSorting":true,"parFilter":"","allowAdditionalGroupByPerMetric":false,"groupBy":[],"sortBy":null,"sortByOrder":"desc","followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableCustomEmptyState":false,"componentId":"agcy1uxb","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","filterConfigurations":"@state.parFilters","columns":null,"table":"x_2129892_servic_0_service_access_request","groupByField":"","showLinks":true,"wrapCellContent":"useLineBreaksUserPref","showViewAll":false,"showInlineEditing":true,"allowListPagination":true,"lineClamp":1,"headerTitleAlignment":"start","showBorder":true,"showExportOption":true,"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Service Access Request","sourceType":"table","tableOrViewName":"x_2129892_servic_0_service_access_request","filterQuery":"status=requested","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4XzIxMjk4OTJfc2VydmljXzBfc2VydmljZV9hY2Nlc3NfcmVxdWVzdDE3OTM2MjEzODc2MjI=","dataCategories":["trend","group","simple"]}],"bareBorder":false,"additionalGroupByConfig":[],"showAdditionalGroupBySelector":false}</component_props>
+        <h>23</h>
+        <name/>
+        <required_translations>[{"comment":"","code":"PAR_DASHBOARD.7696b8b98314d7509d3b5860ceaad330.c5079d758318d7509d3b5860ceaad33c","message":"No data available."},{"comment":"","code":"PAR_DASHBOARD.7696b8b98314d7509d3b5860ceaad330.c5079d758318d7509d3b5860ceaad33c","message":"There are no scores available for the selected criteria. Contact your admin for more info."},{"comment":"","code":"PAR_DASHBOARD.7696b8b98314d7509d3b5860ceaad330.c5079d758318d7509d3b5860ceaad33c","message":"Service Access Request"}]</required_translations>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-02 12:28:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c5079d758318d7509d3b5860ceaad33c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Service Access Request Management" source="x_2129892_servic_0">d5b6e0f98390d7509d3b5860ceaad330</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Access Request Management">d5b6e0f98390d7509d3b5860ceaad330</sys_scope>
+        <sys_update_name>par_dashboard_widget_c5079d758318d7509d3b5860ceaad33c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-02 12:28:41</sys_updated_on>
+        <visualization/>
+        <w>34</w>
+        <widget_props>{"filterPerMetric":[],"refreshFrequency":null}</widget_props>
+        <x>12</x>
+        <y>0</y>
+    </par_dashboard_widget>
+</record_update>
