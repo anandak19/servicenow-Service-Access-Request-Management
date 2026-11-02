@@ -10,13 +10,13 @@
 	return '';  // return the calculated value
 
 })(current);]]></calculation>
-        <choice>1</choice>
+        <choice>3</choice>
         <choice_field/>
         <choice_table/>
         <column_label>Status</column_label>
         <comments/>
         <create_roles/>
-        <default_value/>
+        <default_value>requested</default_value>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -59,7 +59,7 @@
         <sys_scope display_value="Service Access Request Management">d5b6e0f98390d7509d3b5860ceaad330</sys_scope>
         <sys_update_name>sys_dictionary_x_2129892_servic_0_service_access_request_status</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-11-02 09:47:34</sys_updated_on>
+        <sys_updated_on>2026-11-02 13:34:43</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
